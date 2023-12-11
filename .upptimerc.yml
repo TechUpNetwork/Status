@@ -13,17 +13,19 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /Status
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: TechUp Status
-  introTitle: "**Upscale your Network** with the TechUp constellation."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://raw.githubusercontent.com/techupnetwork/Status/master/assets/techup-blanc.png
+  name: Status
+  introTitle: "Welcome to the **TechUp Services Status Page**"
+  introMessage: Below you can find the status of the services offered by TechUp on its various infrastructures. Feel free to join our [Discord server](https://tech-up.org/discord)!
   navbar:
     - title: Status
       href: /
-    - title: Connect
-      href: https://connect.tech-up.org
     - title: Main page
       href: https://tech-up.org
+    - title: Connect
+      href: https://connect.tech-up.org
+    - title: Discord server
+      href: https://tech-up.org/discord
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
