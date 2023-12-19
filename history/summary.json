@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/connect.tech-up.org.ico",
     "slug": "tech-up-connect",
     "status": "up",
-    "uptime": "98.53%",
+    "uptime": "98.71%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.52%",
-    "uptimeMonth": "98.53%",
-    "uptimeYear": "98.53%",
-    "time": 940,
-    "timeDay": 655,
-    "timeWeek": 895,
-    "timeMonth": 940,
-    "timeYear": 940,
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.71%",
+    "uptimeYear": "98.71%",
+    "time": 934,
+    "timeDay": 823,
+    "timeWeek": 973,
+    "timeMonth": 934,
+    "timeYear": 934,
     "dailyMinutesDown": {
       "2023-12-11": 150
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 373,
-    "timeDay": 263,
-    "timeWeek": 365,
-    "timeMonth": 373,
-    "timeYear": 373,
+    "time": 369,
+    "timeDay": 317,
+    "timeWeek": 331,
+    "timeMonth": 369,
+    "timeYear": 369,
     "dailyMinutesDown": {}
   }
 ]
