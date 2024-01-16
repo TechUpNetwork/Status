@@ -26,19 +26,19 @@
     "url": "https://tech-up.org",
     "icon": "https://icons.duckduckgo.com/ip3/tech-up.org.ico",
     "slug": "tech-up",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 363,
-    "timeDay": 640,
-    "timeWeek": 368,
-    "timeMonth": 354,
-    "timeYear": 363,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.66%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 377,
+    "timeDay": 789,
+    "timeWeek": 440,
+    "timeMonth": 372,
+    "timeYear": 377,
     "dailyMinutesDown": {
-      "2024-01-16": 0
+      "2024-01-16": 5
     }
   }
 ]
