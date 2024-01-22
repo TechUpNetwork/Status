@@ -1,7 +1,7 @@
 url: https://connect.tech-up.org
-status: up
-code: 200
-responseTime: 7534
-lastUpdated: 2024-01-22T02:42:52.104Z
+status: down
+code: 502
+responseTime: 3748
+lastUpdated: 2024-01-22T03:26:46.124Z
 startTime: 2023-12-10T23:36:32.098Z
 generator: Upptime <https://github.com/upptime/upptime>
