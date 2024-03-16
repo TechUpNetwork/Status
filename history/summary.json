@@ -29,9 +29,9 @@
     "url": "https://tech-up.org",
     "icon": "https://icons.duckduckgo.com/ip3/tech-up.org.ico",
     "slug": "tech-up",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -41,6 +41,7 @@
     "timeMonth": 365,
     "timeYear": 380,
     "dailyMinutesDown": {
+      "2024-03-16": 0,
       "2024-01-16": 5
     }
   }
